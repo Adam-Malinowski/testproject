@@ -1,0 +1,5 @@
+django
+django-jenkins
+coverage
+pylint
+pep8
